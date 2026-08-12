@@ -2,3 +2,7 @@ outputs/*.csv
 __pycache__/
 .ipynb_checkpoints/
 venv/
+
+# Exception: final CSVs required by the Streamlit app
+!outputs/driver_features_final.csv
+!outputs/vehicle_health_features_final.csv
