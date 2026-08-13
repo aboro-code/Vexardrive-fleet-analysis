@@ -3,7 +3,7 @@
 Driver Behaviour and Vehicle Health analytics for a two-wheeler fleet, built for the VexarDrive x Polaris Data Science Intern take-home assignment.
 
 **Live Dashboard:** https://vexardrive-fleet-analysis-ep7y8trhzwgtob8znwsznp.streamlit.app/
-**Technical Report:** see `VexarDrive_Technical_Report.docx` (submitted separately via Drive)
+**Technical Report:** https://docs.google.com/document/d/1ELjonmm3VqvoMYZohrXdb5jR8r824PFHK52h4lne7Eo/edit?tab=t.0
 
 ---
 
